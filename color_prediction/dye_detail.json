@@ -1,0 +1,334 @@
+[
+    {
+      "name": "YELLOW 4G 200%",
+      "rgb": [255, 255, 102],
+      "price": 156.00
+    },
+    {
+      "name": "CYANINE PINK",
+      "rgb": [255, 105, 180],
+      "price": 470.00
+    },
+    {
+      "name": "YELLOW 5GD",
+      "rgb": [255, 250, 120],
+      "price": 210.00
+    },
+    {
+      "name": "PINK BRF 300%",
+      "rgb": [255, 192, 203],
+      "price": 335.00
+    },
+    {
+      "name": "YELLOW 7GE",
+      "rgb": [255, 220, 110],
+      "price": 234.00
+    },
+    {
+      "name": "CYANINE VIOLET XF",
+      "rgb": [138, 43, 226],
+      "price": 430.00
+    },
+    {
+      "name": "YELLOW C4G H/CONC",
+      "rgb": [255, 245, 115],
+      "price": 318.00
+    },
+    {
+      "name": "RED VIOLET XF",
+      "rgb": [199, 21, 133],
+      "price": 735.00
+    },
+    {
+      "name": "LUMINOUS YELLOW 10GN",
+      "rgb": [255, 255, 51],
+      "price": 628.00
+    },
+    {
+      "name": "BRILL BLUE BG 200%",
+      "rgb": [0, 0, 255],
+      "price": 750.00
+    },
+    {
+      "name": "YELLOW 7GD",
+      "rgb": [255, 230, 120],
+      "price": 387.00
+    },
+    {
+      "name": "BRILL BLUE X BG",
+      "rgb": [0, 102, 255],
+      "price": 270.00
+    },
+    {
+      "name": "YELLOW SG H/CONC",
+      "rgb": [255, 255, 80],
+      "price": 400.00
+    },
+    {
+      "name": "BRILL BLUE BGFS 400%",
+      "rgb": [0, 51, 204],
+      "price": 2243.00
+    },
+    {
+      "name": "BRILL. YELLOW SGL",
+      "rgb": [255, 245, 90],
+      "price": 268.00
+    },
+    {
+      "name": "BRILL. BLUE XBRSL",
+      "rgb": [0, 128, 255],
+      "price": 388.00
+    },
+    {
+      "name": "YELLOW 4GLS",
+      "rgb": [255, 240, 110],
+      "price": 202.00
+    },
+    {
+      "name": "BRILL. BLUE SR 200%",
+      "rgb": [0, 0, 205],
+      "price": 555.00
+    },
+    {
+      "name": "PRTG. YELLOW 7GN",
+      "rgb": [255, 250, 100],
+      "price": 212.00
+    },
+    {
+      "name": "BRILL BLUE SR LIQUID",
+      "rgb": [0, 102, 204],
+      "price": 275.00
+    },
+    {
+      "name": "GOLDEN YELLOW 2GD",
+      "rgb": [255, 215, 0],
+      "price": 278.00
+    },
+    {
+      "name": "BRILL BLUE CB EX-CONC",
+      "rgb": [0, 0, 128],
+      "price": 890.00
+    },
+    {
+      "name": "GOLDEN YELLOW GG",
+      "rgb": [255, 223, 0],
+      "price": 186.00
+    },
+    {
+      "name": "BLUE 2RX",
+      "rgb": [25, 25, 112],
+      "price": 796.00
+    },
+        {
+          "color": "GOLDEN YELLOW",
+          "rgb": [255, 223, 0],
+          "price": 234.00
+        },
+        {
+          "color": "BLUE ER",
+          "rgb": [0, 0, 255],
+          "price": 426.00
+        },
+        {
+          "color": "ORANGE RL",
+          "rgb": [255, 165, 0],
+          "price": 162.00
+        },
+        {
+          "color": "BLUE 3R",
+          "rgb": [0, 0, 255],
+          "price": 324.00
+        },
+        {
+          "color": "ORANGE 3R H/C",
+          "rgb": [255, 140, 0],
+          "price": 191.00
+        },
+        {
+          "color": "BLUE 2R CONC",
+          "rgb": [0, 0, 255],
+          "price": 374.00
+        },
+        {
+          "color": "YELLOW BROWN 2RFL",
+          "rgb": [204, 153, 51],
+          "price": 144.00
+        },
+        {
+          "color": "BRILL BLUE DBR CONC",
+          "rgb": [0, 0, 255],
+          "price": 345.00
+        },
+        {
+          "color": "SCARLET 3R 150%",
+          "rgb": [255, 36, 0],
+          "price": 170.00
+        },
+        {
+          "color": "BRILL. BLUE GSL 400%",
+          "rgb": [0, 0, 255],
+          "price": 550.00
+        },
+        {
+          "color": "SCARLET CRR",
+          "rgb": [255, 36, 0],
+          "price": 138.00
+        },
+        {
+          "color": "BRILL BLUE GRL",
+          "rgb": [0, 0, 255],
+          "price": 385.00
+        },
+        {
+          "color": "LUMINOUS RED G",
+          "rgb": [255, 0, 0],
+          "price": 494.00
+        },
+        {
+          "color": "BRILL BLUE GRXF",
+          "rgb": [0, 0, 255],
+          "price": 748.00
+        },
+        {
+          "color": "LUMINOUS RED J",
+          "rgb": [255, 0, 0],
+          "price": 800.00
+        },
+        {
+          "color": "TURQ. BLUE SBR",
+          "rgb": [0, 255, 255],
+          "price": 263.00
+        },
+        {
+          "color": "LUMINOUS PINK RB (RBSF)",
+          "rgb": [255, 105, 180],
+          "price": 270.00
+        },
+        {
+          "color": "NAVY BLUE 3G 200%",
+          "rgb": [0, 0, 128],
+          "price": 210.00
+        },
+        {
+          "color": "LUMINOUS PINK 5BN",
+          "rgb": [255, 105, 180],
+          "price": 730.00
+        },
+        {
+          "color": "NAVY BLUE S2G",
+          "rgb": [0, 0, 128],
+          "price": 350.00
+        },
+        {
+          "color": "RED 2BN 150%",
+          "rgb": [255, 0, 0],
+          "price": 711.00
+        },
+        {
+          "color": "NAVY SE3G H/CONC",
+          "rgb": [0, 0, 128],
+          "price": 221.00
+        },
+        {
+          "color": "RED BF 200%",
+          "rgb": [255, 0, 0],
+          "price": 835.00
+        },
+        {
+          "color": "NAVY BLUE E-MGR",
+          "rgb": [0, 0, 128],
+          "price": 252.00
+        },
+        {
+          "color": "RED 4B",
+          "rgb": [255, 0, 0],
+          "price": 552.00
+        },
+        {
+          "color": "GREEN 2B 200%",
+          "rgb": [0, 255, 0],
+          "price": 540.00
+        },
+        {
+          "color": "BROWN 3RSF H/CONC",
+          "rgb": [139, 69, 19],
+          "price": 292.00
+        },
+        {
+          "color": "BROWN 3REL N",
+          "rgb": [139, 69, 19],
+          "price": 159.00
+        },
+        {
+          "color": "BROWN CBS 150%",
+          "rgb": [139, 69, 19],
+          "price": 194.00
+        },
+        {
+          "color": "KHAKHI 2RB",
+          "rgb": [195, 176, 145],
+          "price": 172.00
+        },
+        {
+          "color": "BRILL RED S6B",
+          "rgb": [255, 0, 0],
+          "price": 455.00
+        },
+        {
+          "color": "DARK RED 2B",
+          "rgb": [139, 0, 0],
+          "price": 158.00
+        },
+        {
+          "color": "BLACK R LIQUID",
+          "rgb": [0, 0, 0],
+          "price": 133.00
+        },
+        {
+          "color": "BLACK CRLS 200%",
+          "rgb": [0, 0, 0],
+          "price": 241.00
+        },
+        {
+          "color": "BLACK R PLUS",
+          "rgb": [0, 0, 0],
+          "price": 284.00
+        },
+        {
+          "color": "BLACK 2RC",
+          "rgb": [0, 0, 0],
+          "price": 231.00
+        },
+        {
+          "color": "BLACK BSL H/CONC",
+          "rgb": [0, 0, 0],
+          "price": 234.00
+        },
+        {
+          "color": "BLACK RX-EX.CONC",
+          "rgb": [0, 0, 0],
+          "price": 290.00
+        },
+        {
+          "color": "BLACK EMRD",
+          "rgb": [0, 0, 0],
+          "price": 214.00
+        },
+        {
+          "color": "BLUE M-5R (4R)",
+          "rgb": [0, 0, 255],
+          "price": 353.00
+        },
+        {
+          "color": "BLUE MGB",
+          "rgb": [0, 0, 255],
+          "price": 332.00
+        },
+        {
+          "color": "YELLOW M-7G",
+          "rgb": [255, 255, 0],
+          "price": 282.00
+        }
+      ]
+      
+  
