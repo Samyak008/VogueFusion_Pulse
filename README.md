@@ -51,13 +51,16 @@ Stable Diffusion XL (SDXL) is a powerful text-to-image generative model that ext
 **Key Features:**
 
 1. **Enhanced Architecture:**
+
    - SDXL incorporates advanced multi-scale attention mechanisms that enable it to focus on both global structures and intricate details simultaneously.
    - Includes improved latent diffusion models that ensure realistic and coherent outputs even for complex prompts.
 
 2. **High-Resolution Outputs:**
+
    - Trained on a diverse and extensive dataset, SDXL generates outputs at resolutions up to 1024x1024, suitable for detailed garment designs.
 
 3. **Customizability:**
+
    - Supports fine-tuning and control through embeddings, enabling designers to specify style, color palette, and texture preferences.
 
 **Workflow in VogueFusion:**
@@ -67,6 +70,12 @@ Stable Diffusion XL (SDXL) is a powerful text-to-image generative model that ext
   - SDXL leverages its text-to-image pipeline to translate input prompts into high-resolution fashion designs.
   - Utilizes pretrained models and fine-tuned LoRAs (Low-Rank Adaptations) for domain-specific outputs.
 - **Output:** Rapidly generated, market-aligned designs with a high degree of detail and color accuracy.
+
+---
+
+## Video Demonstration
+
+https://github.com/user-attachments/assets/10fd9ecd-1782-43ba-8745-251c94a3c379
 
 ---
 
@@ -100,7 +109,7 @@ Accurately predict the production cost of generated designs.
 - Calculate the total production cost by matching dye combinations with their respective prices in the dataset.
 - Summarize the costs to determine the final price of printing the clothing article.
 
-**Cost Prediction Demonstration:**
+
 
 ---
 
@@ -118,7 +127,7 @@ Analyze market trends to inform design generation and production.
   - Categorize designs by seasonal variations, showing which clothing types dominate in specific seasons.
 - Provide actionable insights into market trends, helping fashion brands align their designs with consumer preferences.
 
-**Trend Analysis Demonstration:**
+
 
 ---
 
@@ -169,4 +178,6 @@ Analyze market trends to inform design generation and production.
 - Research Papers:
   - "A Style-Based Generator Architecture for Generative Adversarial Networks"
   - "Text-to-Image Synthesis Using Generative Adversarial Networks"
+
+
 
