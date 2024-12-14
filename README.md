@@ -94,6 +94,28 @@ Generate high-quality fashion designs based on simple user inputs.
 
 **Design Demonstration:**
 
+
+**ComfyUI Workflow:**
+
+<img src="assets/images/workflow.png" width=1500 height=600>
+
+**Frontend**
+
+
+<img src="assets/images/frontend.png" width=1500 height=600>
+
+<img src="assets/images/frontend_2.png" width=1500 height=600>
+
+**LORA**
+
+
+<img src="assets/images/lora.png" width=1500 height=600>
+<img src="assets/images/lora_details.png" width=900 height=600>
+
+**Generated sample**
+
+<img src="https://github.com/user-attachments/assets/58296b71-95d4-441d-bcc9-d6c6d5c4792d" width=300 height=500>
+
 ---
 
 ### Task 2: Cost Prediction
@@ -109,6 +131,13 @@ Accurately predict the production cost of generated designs.
 - Calculate the total production cost by matching dye combinations with their respective prices in the dataset.
 - Summarize the costs to determine the final price of printing the clothing article.
 
+**Cost Prediction Demonstration:**
+
+<img src="https://github.com/user-attachments/assets/47138ed0-2023-4906-b92f-96eb8926e480" width=1000 height=600>
+
+
+
+<img src="https://github.com/user-attachments/assets/eba33fbd-af4c-4a02-b054-ac4db9ed7b1d" width=1200 height=400>
 
 
 ---
@@ -165,7 +194,7 @@ Analyze market trends to inform design generation and production.
 ## Shortcomings
 
 - Limited availability of open-source fashion datasets.
-- High computational requirements for training advanced GAN models.
+- High computational requirements for training advanced models.
 - Challenges in ensuring perfect alignment between generated designs and production requirements.
 
 ---
@@ -174,10 +203,11 @@ Analyze market trends to inform design generation and production.
 
 - Inspired by advancements in generative AI models, including:
   - **Stable Diffusion XL:** [https://github.com/StabilityAI/stable-diffusion-xl](https://github.com/StabilityAI/stable-diffusion-xl)
-  - **DeepFashion Dataset:**
+  - **Pinscrape API:** Used to scrape clothing images from Pinterest and create a custom dataset for trend analysis.
+  - **DeepFashion Dataset:** [https://github.com/switchablenorms/DeepFashion](https://github.com/switchablenorms/DeepFashion)
 - Research Papers:
-  - "A Style-Based Generator Architecture for Generative Adversarial Networks"
-  - "Text-to-Image Synthesis Using Generative Adversarial Networks"
+  - "SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis"
+  - "An AI pipeline for garment price projection using computer vision"
 
 
 
