@@ -290,9 +290,7 @@ def main():
                 best_proportions, best_error, selected_dyes = genetic_algorithm(target_rgb)
                 
                 resulting_rgb = np.dot(best_proportions, [dye["rgb"] for dye in selected_dyes]).round().astype(int)
-                st.session_state["best_proportion"] = best_proportions
-                st.session_state["selected_dyes"] = selected_dyes
-                st.session_state["best_error"] = best_error
+                st.session_state["best_proportions"] = best_proportions
                 st.write(f"**Target RGB:** {target_rgb}")
                 st.write(f"**Resulting RGB:** {resulting_rgb}")
                 st.write("**Optimal Dye Proportions:**")
