@@ -16,4 +16,4 @@ if __name__ == "__main__":
     download_images_from_pinterest()
 
     # Customized usage
-    # download_images_from_pinterest(keyword="nature photography", images_to_download=10, output_folder="nature_images")
+    # download_images_from_pinterest(keyword="saree design", images_to_download=10, output_folder="images")
