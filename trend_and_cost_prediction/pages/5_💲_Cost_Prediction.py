@@ -70,23 +70,25 @@ def main():
 
         # Display the total cost for the entire design
 # Display the total cost for the entire design in a single line
-        st.markdown(f"### Total Cost for the Entire Design: **₹{total_cost:.2f}**")
+        saree_cost = (total_cost/100)*5.5
+        st.markdown(f"### Total Color Cost for the Entire Design (100m Saree): **₹{total_cost:.2f}**")
+        st.markdown(f"### Total Color Cost for a Saree (Standard Size - 5.5m Saree): **₹{saree_cost:.2f}**")
 
 
         # Display the dye proportions with color blocks and progress bars
-        st.subheader("Dye Proportions:")
-        dyes = load_dye_details()
-        for dye, proportion in zip(dyes, st.session_state.best_proportions):
-            if proportion > 0.01:  # Filter negligible proportions
-                col1, col2 = st.columns([3, 1])
-                with col1:
-                    st.write(f"**{dye['color']}:** {proportion:.2%} of the design")
-                with col2:
-                    st.progress(proportion)  # Show progress bar for proportion
+        # st.subheader("Dye Proportions:")
+        # dyes = load_dye_details()
+        # for dye, proportion in zip(dyes, st.session_state.best_proportions):
+        #     if proportion > 0.01:  # Filter negligible proportions          
+        #         col1, col2 = st.columns([3, 1])
+        #         with col1:
+        #             st.write(f"**{dye['color']}:** {proportion:.2%} of the design")
+        #         with col2:
+        #             st.progress(proportion)  # Show progress bar for proportion
                 
-                # Show color block with corresponding dye color
-                st.markdown(f"<div style='background-color: rgb{tuple(dye['rgb'])}; width: 100px; height: 30px;'></div>", unsafe_allow_html=True)
-                st.write("")
+        #         # Show color block with corresponding dye color
+        #         st.markdown(f"<div style='background-color: rgb{tuple(dye['rgb'])}; width: 100px; height: 30px;'></div>", unsafe_allow_html=True)
+        #         st.write("")
 
     else:
         st.error("Please ensure that the dye proportions and selected dyes are available.")
