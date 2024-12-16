@@ -8,7 +8,7 @@ def main():
     st.write("Welcome to the Design Generator! Click the button below to be redirected to the design generation model.")
 
     # URL of the design generation model
-    model_url = "https://example.com/design-generator"  # Replace with your actual model URL
+    model_url = "http://localhost:3000/"  # Replace with your actual model URL
 
     # Button to redirect to the URL
     if st.button("Go to Design Generator"):
