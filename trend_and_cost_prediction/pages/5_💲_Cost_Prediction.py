@@ -46,7 +46,7 @@ def main():
     st.title("Saree Dye Cost Prediction")
     
     # Display instructions for the user
-    st.info("This app predicts the total cost of dyeing a saree based on selected fabric GSM and dye proportions.")
+    st.info("This app predicts the total color cost of printing a saree based on selected fabric GSM and dye proportions.")
     
     # Select fabric GSM for cost calculation
     fabric_gsm = st.selectbox("Select Fabric GSM", [70, 100, 120], index=0)
