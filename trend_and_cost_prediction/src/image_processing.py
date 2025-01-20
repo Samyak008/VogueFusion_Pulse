@@ -13,6 +13,7 @@ def read_and_preprocess_image(image_path):
     image = cv2.imread(image_path)
     if image is None:
         raise FileNotFoundError(f"Image not found at {image_path}")
+    print(image_path)
     return cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
 
 # Extract colors from image

@@ -11,8 +11,8 @@ def download_images_with_icrawler(keyword, limit, output_folder="downloads"):
 
 # Streamlit App
 def main():
-    st.title("Trending Designs")
-    st.write("Enter a keyword to search for images.")
+    st.title("Trending Designs From Pinterest")
+    st.write("Enter a keyword to search for images you would like to take inspiration from.")
 
     # Input Section
     keyword = st.text_input("Enter the search query", placeholder="e.g., trending ethnic traditional cotton saree printing design patterns template")
